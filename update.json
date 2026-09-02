@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "maintenance": false,
+  "versionCode": 2,
+  "versionName": "1.1",
+  "title": "Nova atualização disponível",
+  "message": "Uma nova versão do PlayMoz Lite está disponível. Atualize para receber melhorias e correções.",
+  "apkUrl": "https://playmoz.xyz/a.apk",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.playmoz.boy",
+  "maintenanceTitle": "Estamos em manutenção",
+  "maintenanceMessage": "O PlayMoz Lite está temporariamente em manutenção. Voltaremos em breve.",
+  "minSupportedVersionCode": 1
+}
