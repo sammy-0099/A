@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "maintenance": false,
-  "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionCode": 1,
+  "versionName": "1.0",
   "title": "Nova atualização disponível",
   "message": "Uma nova versão do PlayMoz Lite está disponível. Atualize para receber melhorias e correções.",
   "apkUrl": "https://playmoz.site.je/PlayMoz Lite_1.0.1.apk",
