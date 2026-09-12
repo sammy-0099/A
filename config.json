@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "maintenance": false,
-  "versionCode": 1,
-  "versionName": "1.0",
+  "versionCode": 2,
+  "versionName": "1.1",
   "title": "Nova atualização disponível",
   "message": "Uma nova versão do PlayMoz Lite está disponível com melhorias e correções.",
   "maintenanceTitle": "PlayMoz em manutenção",
