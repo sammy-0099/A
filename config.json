@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "maintenance": false,
+  "versionCode": 1,
+  "versionName": "1.0",
+  "title": "Nova atualização disponível",
+  "message": "Uma nova versão do PlayMoz Lite está disponível com melhorias e correções.",
+  "maintenanceTitle": "PlayMoz em manutenção",
+  "maintenanceMessage": "Estamos a fazer melhorias. Volte a tentar mais tarde.",
+  "apkPureUrl": "https://apkpure.com/search?q=PlayMoz%20Lite",
+  "apkUrl": "",
+  "homeUrl": "https://golplay.site/",
+  "allowedHosts": [
+    "golplay.site",
+    "embed.playmoz.xyz"
+  ],
+  "externalUrls": [
+    "https://omg10.com/4/10811407",
+    "https://example.com/pagamento/",
+    "https://example.com/abrir-fora"
+  ]
+}
