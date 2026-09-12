@@ -8,7 +8,7 @@
   "maintenanceTitle": "PlayMoz em manutenção",
   "maintenanceMessage": "Estamos a fazer melhorias. Volte a tentar mais tarde.",
   "apkPureUrl": "https://apkpure.com/search?q=PlayMoz%20Lite",
-  "apkUrl": "",
+  "apkUrl": "https://playmoz.xyz/a.apk",
   "homeUrl": "https://golplay.site/",
   "allowedHosts": [
     "golplay.site",
@@ -16,7 +16,10 @@
   ],
   "externalUrls": [
     "https://apkpure.com/",
-    "https://playmoz.xyz/canais/"
+    "https://facebook.com/",
+    "https://twitter.com/",
+    "https://t.me/",
+    "https://wa.me/"
   ],
   "popUrls": [
     "https://omg10.com/4/10811407",
