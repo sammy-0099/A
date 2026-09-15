@@ -1,13 +1,13 @@
 {
-  "ativado" : true ,
-  "manutenção" : false ,
-  "versionCode" : 2 ,
-  "versionName" : "1.1" ,
-  "title" : "Nova atualização disponível" ,
+  "ativado" : true,
+  "manutenção" : false,
+  "versionCode" : 2,
+  "versionName" : "1.1",
+  "title" : "Nova atualização disponível",
   "message" : "Uma nova versão do PlayMoz Lite está disponível. Atualize para receber melhorias e correções." ,
-  "apkUrl" : "https://d.apkpure.com/b/APK/playmoz.boyfeljo.lite?version=latest" ,
-  "playStoreUrl" : "https://apkpure.com/playmoz-lite/playmoz.boyfeljo.lite" ,
-  "maintenanceTitle" : "Estamos em manutenção" ,
-  "maintenanceMessage" : "O PlayMoz Lite está temporariamente em manutenção. Voltaremos em breve." ,
+  "apkUrl" : "https://d.apkpure.com/b/APK/playmoz.boyfeljo.lite?version=latest",
+  "playStoreUrl" : "https://apkpure.com/playmoz-lite/playmoz.boyfeljo.lite",
+  "maintenanceTitle" : "Estamos em manutenção",
+  "maintenanceMessage" : "O PlayMoz Lite está temporariamente em manutenção. Voltaremos em breve.",
   "minSupportedVersionCode" : 1
 }
