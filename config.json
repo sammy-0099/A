@@ -9,10 +9,11 @@
   "maintenanceMessage": "Estamos a fazer melhorias. Volte a tentar mais tarde.",
   "apkPureUrl": "https://apkpure.com/search?q=PlayMoz%20Lite",
   "apkUrl": "https://playmoz.xyz/a.apk",
-  "homeUrl": "https://golplay.site/",
+  "homeUrl": "https://playmoz-sammy-0099.wasmer.app/",
   "allowedHosts": [
     "golplay.site",
-    "embed.playmoz.xyz"
+    "embed.playmoz.xyz",
+    "playmoz-sammy-0099.wasmer.app"
   ],
   "externalUrls": [
     "https://apkpure.com/",
