@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "maintenance": true,
+  "maintenance": false,
   "versionCode": 2,
   "versionName": "1.1",
   "title": "Nova atualização disponível",
