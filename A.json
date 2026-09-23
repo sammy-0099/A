@@ -1,0 +1,7 @@
+{
+  "versionCode": 2,
+  "versionName": "2.0.0",
+  "changelog": "• Nova interface ultra moderna com Splash Screen\n• Verificação silenciosa de atualizações\n• Suporte a múltiplos downloads MP3 em segundo plano\n• Melhores servidores de streaming de alta fidelidade",
+  "directApkUrl": "https://github.com/feljo/playsong/releases/download/v2.0.0/app-release.apk",
+  "storeUrl": "https://play.google.com/store/apps/details?id=playsong.boy.feljo"
+}
