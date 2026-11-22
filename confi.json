@@ -12,7 +12,7 @@
   "homeUrl": "https://flixmoz.playmoz.xyz",
   "allowedHosts": [
     "https://flixmoz.playmoz.xyz",
-    "https://playmoz.xyz/canais/"
+    "https://playmoz.xyz/canais/",
   ],
   "externalUrls": [
     "https://apkpure.com/",
