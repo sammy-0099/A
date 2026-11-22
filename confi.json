@@ -13,20 +13,24 @@
   "allowedHosts": [
     "https://flixmoz.playmoz.xyz",
     "https://playmoz.xyz/canais/",
+    "https://playmoz.xyz/canais/?tab=channels",
+    "https://playmoz.xyz/canais/?tab=sports"
   ],
   "externalUrls": [
     "https://apkpure.com/",
     "https://facebook.com/",
-    "https://twitter.com/",   "https://whatsapp.com/channel/0029Vb6znVNDp2QBbbGxyS1V",  "https://chat.whatsapp.com/CjQ614UGloJKHwdMYXMRjg",
-"https://chat.whatsapp.com/CEKNHiWX3VA8QRmHriAaEw?s=cl&p=a&mlu=4&ilr=4&iam=2",
-"https://chat.whatsapp.com/CEKNHiWX3VA8QRmHriAaEw?s=cl&p=a&iam=2",
+    "https://twitter.com/",
+    "https://whatsapp.com/channel/0029Vb6znVNDp2QBbbGxyS1V",
+    "https://chat.whatsapp.com/CjQ614UGloJKHwdMYXMRjg",
+    "https://chat.whatsapp.com/CEKNHiWX3VA8QRmHriAaEw?s=cl&p=a&mlu=4&ilr=4&iam=2",
+    "https://chat.whatsapp.com/CEKNHiWX3VA8QRmHriAaEw?s=cl&p=a&iam=2",
     "https://t.me/",
     "https://funny-tooth.com",
     "https://wa.me/"
   ],
   "popUrls": [
     "https://omg10.com/4/10811407",
-   "https://arwf.org/4/bd80ab77e08892e5acc5ee46519cd6f0",
+    "https://arwf.org/4/bd80ab77e08892e5acc5ee46519cd6f0",
     "https://www.profitableratecpmnetwork.com/rwc6t8h21w?key=ed19f489f3b9db7aa18aecbf72814080"
   ]
 }
