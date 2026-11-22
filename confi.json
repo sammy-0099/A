@@ -11,13 +11,15 @@
   "apkUrl": "https://playmoz.xyz/a.apk",
   "homeUrl": "https://flixmoz.playmoz.xyz",
   "allowedHosts": [
-    "https://flixmoz.playmoz.xyz"
+    "https://flixmoz.playmoz.xyz",
+    "https://playmoz.xyz/canais/"
   ],
   "externalUrls": [
     "https://apkpure.com/",
     "https://facebook.com/",
     "https://twitter.com/",   "https://whatsapp.com/channel/0029Vb6znVNDp2QBbbGxyS1V",  "https://chat.whatsapp.com/CjQ614UGloJKHwdMYXMRjg",
 "https://chat.whatsapp.com/CEKNHiWX3VA8QRmHriAaEw?s=cl&p=a&mlu=4&ilr=4&iam=2",
+"https://chat.whatsapp.com/CEKNHiWX3VA8QRmHriAaEw?s=cl&p=a&iam=2",
     "https://t.me/",
     "https://funny-tooth.com",
     "https://wa.me/"
