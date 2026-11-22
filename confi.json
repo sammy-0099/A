@@ -1,3 +1,4 @@
+
 {
   "enabled": true,
   "maintenance": false,
@@ -11,10 +12,8 @@
   "apkUrl": "https://playmoz.xyz/a.apk",
   "homeUrl": "https://flixmoz.playmoz.xyz",
   "allowedHosts": [
-    "https://flixmoz.playmoz.xyz",
-    "https://playmoz.xyz/canais/",
-    "https://playmoz.xyz/canais/?tab=channels",
-    "https://playmoz.xyz/canais/?tab=sports"
+    "flixmoz.playmoz.xyz",
+    "playmoz.xyz"
   ],
   "externalUrls": [
     "https://apkpure.com/",
